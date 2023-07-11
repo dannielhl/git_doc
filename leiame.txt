@@ -1,0 +1,9 @@
+ GIT INIT
+ Inicia o controle de dimencionamento
+
+ GIT ADD
+ Adiciona o arquivo/alteração na estage alteração
+
+ GIT COMMIT -M "SEU_TEXTO"
+ Adicionando comentario do conteudo da estage alteração
+ 
