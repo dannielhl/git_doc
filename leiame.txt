@@ -1,11 +1,12 @@
- GIT INIT
- Inicia o controle de dimencionamento
+GIT INIT
+Inicia o controle de dimencionamento
 
- GIT ADD <ARQUIVO>
- Adiciona o arquivo/alteração na estage alteração
+GIT ADD <ARQUIVO>
+Adiciona o arquivo/alteração na estage alteração
 
- GIT COMMIT -M "SEU_TEXTO"
- Adicionando comentario do conteudo da estage alteração
+GIT COMMIT -M "SEU_TEXTO"
+Adicionando comentario do conteudo da estage alteração
 
 GIT STATUS
 Valida as alterações no projeto
+
