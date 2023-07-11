@@ -10,3 +10,8 @@ Adicionando comentario do conteudo da estage alteração
 GIT STATUS
 Valida as alterações no projeto
 
+GIT LOG
+Mostra o historico da BRANCH 
+
+GIT CHECKOUT -B <nome_branch>
+Ele cria uma nova "branch"
